@@ -31,6 +31,8 @@ BAIDU_SECURITY_KEY:
 IFLY_APP_ID: 
 ```
 
+``-----special:-----`` and ``-----conditions:-----`` are field tags, These field tags should matches exactly as what described above. 
+
 ###### Special field:
 
 - BAIDU_APP_ID/BAIDU_SECURITY_KEY: Need register Baidu translation API at [here](http://api.fanyi.baidu.com/api/trans/product/index). No need to register if you don't plan to use translation function.
