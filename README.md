@@ -31,7 +31,7 @@ BAIDU_SECURITY_KEY:
 IFLY_APP_ID: 
 ```
 
-``-----special:-----`` and ``-----conditions:-----`` are field tags, These field tags should matches exactly as what described above. 
+``-----special:-----`` is field tag, The field tag should match exactly as what described above. 
 
 ###### Special field:
 
